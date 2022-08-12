@@ -1,0 +1,1 @@
+Welcome %player% to %name%\n\nThis is the new version of NightLifeFinal.\n\nHave Fun while playing.\n\n\n~ SiskelDev
